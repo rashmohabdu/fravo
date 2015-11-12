@@ -1,0 +1,59 @@
+Module 1: Red Hat System Administration I (RH124) 
+Course Description 
+Red Hat System Administration I (RH124) is designed for IT professionals who are new to Linux and require core Red Hat Enterprise Linux skills. Focused on administration tasks that will be encountered in the workplace, this course will actively engage students in task-focused activities, lab-based knowledge checks, and facilitative discussions to ensure maximum skill transfer and retention. In addition, GUI-based tools will be featured to build on the students' existing technical knowledge, while key command line concepts will be introduced to provide a foundation for students planning to become full-time Linux system administrators. By the end of the course, students will be able to perform installation, establish network connectivity, manage physical storage, and perform basic security administration. 
+Audience 
+? Microsoft Windows system administrators who need to quickly learn core Red Hat Enterprise Linux proficiencies 
+? System administrators, network administrators, and other IT professionals who require proficiency performing core tasks in Linux 
+? Non-Linux IT professionals on the path to becoming full-time Linux system administrators 
+
+Prerequisites 
+? Previous operating system administration experience is helpful but not required 
+
+Course Outline 
+Unit 1: Get Started with the GNOME Graphical Desktop 
+Objective: Get started with GNOME and edit text files with gedit 
+Unit 2: Manage Files Graphically with Nautilus 
+Objective: Manage files graphically and access remote systems with Nautilus 
+Unit 3: Get Help in a Graphical Environment 
+Objective: Access documentation, both locally and online 
+Unit 4: Configure Local Services 
+Objective: Configure the date and time and configure a printer 
+Unit 5: Manage Physical Storage I 
+Objective: Understand basic disk concepts and manage system disks 
+Unit 6: Manage Logical Volumes 
+Objective: Understand logical volume concepts and manage logical volumes 
+Unit 7: Monitor System Resources 
+Objective: Manage CPU, memory, and disk utilization 
+Unit 8: Manage System Software 
+Objective: Manage system software locally and using Red Hat Network (RHN) 
+Unit 9: Get Started with Bash 
+Objective: Understand basic shell concepts, execute simple commands, and use basic job control techniques 
+Unit 10: Get Help in a Textual Environment 
+Objective: Use man and info pages and find documentation in /usr/share/doc 
+Unit 11: Establish Network Connectivity 
+Objective: Understand basic network concepts; configure, manage, and test network settings 
+Unit 12: Administer Users and Groups 
+Objective: Manage users and groups 
+Unit 13: Manage Files from the Command Line 
+Objective: Understand Linux filesystem hierarchy and pathnames; manage files from the command line 
+Unit 14: Secure Linux File Access 
+Objective: Understand Linux file access mechanisms; manage file access from the GUI and the command line 
+Unit 15: Administer Remote Systems 
+Objective: Share and connect to a desktop; use SSH and rsync 
+Unit 16: Configure General Services 
+Objective: Manage services; configure SSH and remote desktops 
+Unit 17: Manage Physical Storage II 
+Objective: Manage filesystem attributes and swap space 
+Unit 18: Install Linux Graphically 
+Objective: Install Red Hat Enterprise Linux and configure the system with firstboot 
+Unit 19: Manage Virtual Machines 
+Objective: Understand basic virtualization concepts; install and manage virtual machines 
+Unit 20: Control the Boot Process 
+Objective: Understand runlevels and manage GRUB 
+Unit 21: Deploy File Sharing Services 
+Objective: Deploy an FTP server and a web server 
+Unit 22: Secure Network Services 
+Objective: Manage a firewall; understand SELinux concepts and manage SELinux 
+Unit 23: Comprehensive Review 
+Objective: Get a hands-on review of the concepts covered in this course
+
