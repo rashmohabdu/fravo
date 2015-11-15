@@ -16,16 +16,18 @@ Chapter 2 System Initialization
 ¢	Review Questions
 ¢	Answer to Review Questions
 Chapter 3 Disks and Partitioning 
-                     Basic Partitions
-                    Logical Volume Manager
-                    Setting up RAID
-                    Summary
-                    Review Questions
-                    Answers to Review Questions
+         Basic Partitions
+         Logical Volume Manager
+         Setting up RAID
+         Summary
+         Review Questions
+         Answers to Review Questions
 Chapter 4 File Systems and Such 
 ¢	File System Setup
-¢	Encryption with LUKS
-¢	Managing File System Quotas
+	 Encryption with LUKS
+
+
+Managing File System Quotas
 ¢	File System Security
 ¢	Using  AutoFS
 ¢	Summery
