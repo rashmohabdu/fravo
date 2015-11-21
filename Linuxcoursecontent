@@ -1,0 +1,205 @@
+linux Administration Schedule -Course contents/Outline
+Date	Topic
+Day-1	Introduction to Linux Administration and Getting Started with Red Hat Enterprise Linux-6.
+Day-2	Hardware Architecture and Linux File systems.
+Day-3	Installation of RHEL 6.
+
+Day-4	Architecture of File System Types and Device Configuration.
+Day-5	Partition a Disk and Creating, Permanent, Deleting File system.
+Day-6	User/Group Administration
+Day-8	Securing Red Hat Enterprise Linux and user Security with SUDO.
+Day-9	Booting Procedure and Run Levels
+
+Day-10	Software Installation (RPM and YUM).
+Day-11	Service Management and Swap Management.
+Day-12	Configuring Networks and Troubleshooting
+Day-13	TCP/IP Application, TCP Wrappers, Remote Shell Access.
+Day-15	Logical Volume Management
+Day-17	NFS and Disk Quotas
+Day-18	DNS
+Day-19	Backup and Restore
+Day-20	Web Server and DHCP
+Day-22	Job Automation and About Performance Tuning
+Day-23	SAMBA 
+	Advance Linux Administration Topics:
+Day-26	Linux Unified Key Setup(LUKS).
+Day-27	Network Bonding
+Day-29	CUPS
+Day-31	Securing your Server with IP tables
+
+Day-32	Monitoring and Optimizing Performance.
+
+
+
+
+Day 1:- Introduction to Linux Administration and Getting Started with Red Hat Enterprise Linux-6 
+
+"	History of Linux                                                                        
+"	Basic concepts of Operating System, Kernel, Shell & File System structure 
+"	Basic concepts of Linux 
+"	Flavors of  Linux Red Hat Enterprise Linux / Centos, & Fedora 
+"	Basic commands of Linux 
+"	Advanced Linux Commands 
+
+
+
+Day 2:- Installation of RHEL 6
+
+Day 3:- Architecture of File System Types and Device Configuration
+
+Day 4:- Partitioning / Mounting File System/ Deleting File system.
+
+"	Using fdisk, disk druid utilities for disk partitioning 
+"	Using mkfs, commands to create file systems 
+"	Mounting various file systems 
+"	Auto mounting of file system 
+"	Deletion
+Day 5:- User/Group Administration
+"	Viewing Users
+"	Adding a New User and groups
+"	Modifying User Properties
+"	Deleting ,locking and user -group privileges
+
+
+
+Day 6:- Securing Red Hat Enterprise Linux and user Security with SUDO
+"	Configure sudo to Improve Auditing of Root Access
+"	Block Shell and Login Access for Non-Root System Accounts
+"	Set Password Expiration Parameters
+"	Limit Password Reuse
+"	Set Accounts to Disable After Password Expiration
+"	Disable USB Device Support
+
+
+Day 7:- Booting Procedure and Run Levels
+"	BIOS
+"	Boot Loader
+          MBR
+          GRUB
+"	Kernel
+"	Init
+"	Run level Scripts
+
+
+DAY 8:   MANAGE LOGICAL VOLUME MANAGEMENT (LVM)  STORAGE
+"	Creating Logical Volumes
+"	Activating LVM VGs
+"	Exporting and Importing a VG
+"	Examining LVM Components
+"	Changing LVM Components
+"	Advanced LVM Overview
+"	Advanced LVM Components
+"	Advanced LVM Striping & Mirroring
+"	Advanced LVM RAID Volumes
+"	gnome-disk-utility
+Day 9:- Job Automation and Performance Tuning 
+"	Scheduling jobs through at & cron.
+"	Managing access permissions to at & cron utilities
+"	crontab file format
+"	System Status - Resource Consumption
+"	System Status - Memory Usage 
+"	System Status - I/O Activity       
+"	System Status - CPU Usage       
+"	Resource Usage - Trends       
+"	top, iostat, vmstat, sar commands      
+"	Troubleshooting Methods       
+"	Process Profiling      
+"	 Process Syscall Tracing - strace      
+"	Process Libcall Tracing - ltrace      
+"	Process Kernel/User Space Time  Check
+
+
+
+Day 10:- Service Management and Swap Management.
+"	Swap Space
+"	Checking Swap Space Size and Usage
+"	MANAGING SYSTEM SERVICES
+"	Listing Services
+"	Displaying Service Status
+"	Starting a Service
+"	Stopping a Service
+"	Restarting a Service
+"	Enabling a Service
+"	Disabling a Service
+
+Day 11:- Software Installation (RPM and YUM)
+"	Managing Software
+"	RPM Features
+"	RPM Architecture
+"	RPM Package Files
+"	Working With RPMs
+"	Querying and Verifying with RPM
+"	Managing Software Dependencies
+"	Using the Yum command
+"	YUM package groups
+"	Updating the Kernel RPM
+"	Dealing With RPM & Yum Digest Change
+"	YUM Repositories
+"	YUM Repository Groups
+Day 12:- DNS Server
+
+"	Configuring of DNS server 
+"	Configuration of primary DNS server 
+"	Configuration of forward lookup zone 
+"	Configuration of reverse lookup zone 
+"	Testing tool of DNS zones 
+"	Adding services in DNS 
+
+Day 13: Backup and Restore
+
+"	Introduction to various types of backup media 
+
+"	Backup and restoring using tar and cpio commands 
+
+Day 14:- SAMBA
+"	Configuring SAMBA server with heterogeneous platforms
+"	Configuring SAMBA shares between UNIX- windows vice versa.   
+"	Configuring SAMBA share with different levels of Security "
+Day 15:- Web Server and DHCP
+
+"	Basics of Web Service 
+"	Introduction to Apache 
+"	Configuring Apache for main site 
+"	Configuring Apache for multiple sites using IP-based, port-based and name-based virtual hosting 
+"	Configuring Linux as DHCP Server 
+
+"	Configuring various clients for DHCP Server (Windows & Linux) 
+
+Day 16:- NFS and Disk Quotas.
+
+"	Configuring NFS server 
+
+"	Mounting NFS exports on NFS clients 
+
+"	Enabling Quotas on partitions 
+
+"	Creating Quotas for users 
+
+"	Auditing Quotas limit 
+
+Day 17:- Configuring Network and Troubleshooting
+"	Basic networking overview
+"	Network hardware
+"	Setting Network Interfaces
+"	Network Addressing-IPV4
+"	Network masks and subnets
+"	Routing
+"	Network commands (hostname, ifconfig, net stat, telnet..),
+"	Client-server environment
+Day 18: - TCP/IP Application, TCP Wrappers, Remote Shell Access.
+
+
+Day 19:-Network Bonding
+
+Day 20:- Securing your Server with IP tables
+
+Day 21:- Monitoring and Optimizing Performance
+
+
+
+-Note:-Lab days aren't included above days
+-Virtual labs 
+-Main Machines are needed for certain Topics
+-Machines with good configuration
+
+
